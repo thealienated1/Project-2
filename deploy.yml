@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: thealienated1/project2
+        image: thealienated1/project1
         ports:
         - containerPort: 80
